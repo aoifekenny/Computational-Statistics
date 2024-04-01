@@ -1,6 +1,6 @@
-MA 589 Project 3
+MCMC Sampling
 ================
-Your Name
+Aoife Kenny
 2024-03-22
 
 # 1
