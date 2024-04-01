@@ -1,8 +1,4 @@
 ---
-title: "MA 589 Project 3"
-author: "Your Name"
-date: "2024-03-22"
-output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -11,9 +7,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # 1
 ## (a)
-
-
-
 
 ## (b)
 ```{r}
